@@ -8,19 +8,19 @@ This repository contains the notebooks and auxiliar functions to  build a docume
 
 # Task 2: Identify conflicting text
 
-1. While finding contradictions, we may not know what to compare with what. How can we use topic modeling to identify pairs of conflicting text in Consigli documents?
+### 1. While finding contradictions, we may not know what to compare with what. How can we use topic modeling to identify pairs of conflicting text in Consigli documents?
 
 Topic modelling techniches (Latent Dirichlet Allocation, Non-Negative Matrix Factorization, Latent Semantic Analysis) will be used to identify the topics below a certain paragraph most probably is situated. Identified the paragraph topic, the paragraph will be compared with the other paragraphs of the document which threat the same topic using text similarity tecniches.
 
 
-2. What kinds of NLP techniques can be used for recognizing pairs of conflicting text and the measure their inconsistencies?
+### 2. What kinds of NLP techniques can be used for recognizing pairs of conflicting text and the measure their inconsistencies?
 
 For topics identification will be used Latent Dirichlet Allocation, Non-Negative Matrix Factorization, Latent Semantic Analysis and for text embedding and posterior text similarity comparison will be used Word2vec, Glove, BERT embeddings, Universal Google Sentence Encoder.
 
 
-3. Please suggest an outline of ML process where input is raw documents.
-Discussion of pre-processing and feature extraction is welcomed, and tentative
-model(s) should be proposed in the answer.
+### 3. Please suggest an outline of ML process where input is raw documents.
+### Discussion of pre-processing and feature extraction is welcomed, and tentative
+### model(s) should be proposed in the answer.
 
 The ML process to solve this problem will be defined in the next steps:
 
