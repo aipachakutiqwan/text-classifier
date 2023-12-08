@@ -34,3 +34,5 @@ The ML process to solve this problem will be defined in the next steps:
 
 See in the below figure the described process.
 
+[Click here] (https://excalidraw.com/#json=JS5rCeI-AXxGzUJAaXXYT,c4ikHYUGtYMSwIB4bW7Tsw)
+
